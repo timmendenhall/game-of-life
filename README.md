@@ -10,7 +10,13 @@ I haven't bothered adding a GUI library or creating one.  But, here are some key
 
 `r` - Starts a new seed.  If you run the executable from a terminal, you will see your new seed.
 
-`space` - Pause / resume simulation
+`f` - Starts the same seed over.
+
+`w` - Speeds up the simulation.
+
+`s` - Slows down the simulation.
+
+`space` - Pause / resume simulation.
 
 ## Install dependencies
 
